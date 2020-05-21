@@ -1,0 +1,33 @@
+Results:
+
+Summary of characteristics of clusters by venue scores:
+• Cluster 0 (Blue) has consistently high scores for all venue categories. 
+  This is the most artistic and diversely developed part of the city. 
+  This is the oldest and central part of the city.
+• Cluster 1 (Orange) has most football stadiums and nightlife. 
+  This is the recreational part of the city.
+• Cluster 2 (Red) has low marks across the board. 
+  This appears to be underdeveloped areas.
+
+
+Discussion:
+Cluster 0 is the central most part of the city.
+Cluster 1 is the middle area of the city 
+          between central core and outer boundaries.
+Cluster 2 is the boundary areas of the city.
+
+The highest number of venues are in the Food and Fish & Chip Shop categories. 
+Data doesn’t take into account a venue’s size and unique characteristic 
+features necessarily. The central part of city is oldest with plenty of history, 
+so has most art and culture attractions, this is clearly visible from a 
+comparison of the three different clusters which when viewed on a map show 
+differing characteristics.
+
+
+Conclusion:
+The above data and analysis provides an insight into the city’s growth 
+and development indicating areas for future extension in line with 
+inhabitants’ preferences. This data should be combined with other 
+insightful data like population and demographics to provide 
+more accurate results.
+
