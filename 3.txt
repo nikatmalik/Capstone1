@@ -1,0 +1,35 @@
+Methodology
+
+We can use the Foursquare explore API with category ID to query
+ the number of venues of each category in a specific radius. 
+The response contains a totalResults value for the specified 
+coordinates, radius and category. 
+
+GET https://api.foursquare.com/v2/venues/explore?client_id=
+{{client_id}}&client_secret={{client_secret}}&v={{v}}&ll=
+51.51394,-0.07537&radius=500&categoryId= 4d4b7105d754a06374d81259
+
+
+Response:
+{
+"meta": {
+"code": 200,
+"requestId": "5cfec0e31ed21914c1db7dd9"
+},
+"response": {
+"suggestedFilters": {
+"header": "Tap to show:",
+"filters": [
+{
+"name": "Open now",
+"key": "openNow"
+}
+]
+},
+"headerLocation": "Aldgate",
+"headerFullLocation": "Aldgate, London",
+"headerLocationGranularity": "neighborhood",
+"query": "Food",
+"totalResults": 102,
+<...>
+}
