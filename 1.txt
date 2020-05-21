@@ -1,0 +1,7 @@
+Introduction and Business Problem
+
+London Underground has 270 stations and is one of the largest networks in the world. It is used by about 5 million people on an average day. 
+
+This project attempts to classify the neighbourhoods surrounding these stations. Some neighborhoods are mostly residential, others more commercial areas surrounding them. The venues closest to a station determine why and how people use it. For instance if there are no commercial areas in a neighborhood its residents are likely to travel to other areas for work. This creates daily travel and movement of people.
+
+By analyzing this data we can classify stations by their primary usage. This data can be useful for urban and city planners to determine travel motives for work or leisure, and plan further development of the underground network and find places for new activity.
