@@ -1,0 +1,24 @@
+Data
+
+Analysis is based on location of underground station data and areas close to stations.
+List of stations and their geographical coordinates is scrapped from 
+https://wiki.openstreetmap.org/wiki/List_of_London_Underground_stations. 
+ 
+
+
+
+Foursquare API to explore area types surrounding each station. 
+Foursquare outlines these high-level venue categories with more sub-categories.
+
+-	Art Gallery 		4bf58dd8d48988d1e2931735
+-	Football Stadium 	4bf58dd8d48988d189941735
+-	College & University 	4d4b7105d754a06372d81259
+-	Food 			4d4b7105d754a06374d81259
+-	Fish & Chips Shop 	4edd64a0c7ddd24ca188df1a
+-	Nightlife Spot 		4d4b7105d754a06376d81259
+-	Shop & Service 		4d4b7105d754a06378d81259
+-	Residence 		4e67e38e036454776db1fb3a
+
+We will query the number of areas in each category in a 500m radius around each station. 
+This radius was chosen because 500m is reasonable walking distance in London.
+
